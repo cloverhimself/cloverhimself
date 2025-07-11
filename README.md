@@ -17,8 +17,3 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saviourpopoola&show_icons=true&theme=github_dark" />
-</p>

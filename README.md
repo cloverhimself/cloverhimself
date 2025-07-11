@@ -1,11 +1,15 @@
 # 👋 Hello, I'm Saviour Popoola
 ### 🌱 Web3 Enthusiast | 📱 Frontend Dev | 🎯 Lifelong Learner
 
- 🔭 I’m currently building projects in Web3 & React
- 🌱 I’m learning full-stack development (Next.js, MongoDB)
- 👯 I’m looking to collaborate on blockchain and DeFi projects
- 💬 Ask me about Web3, JavaScript, and productivity
- ⚡ I love turning complex topics into simple visuals
+- 🔭 I’m currently building projects in Web3 & React
+  
+-  🌱 I’m learning full-stack development (Next.js, MongoDB)
+   
+-  👯 I’m looking to collaborate on blockchain and DeFi projects
+   
+-  💬 Ask me about Web3, JavaScript, and productivity
+ 
+-  ⚡ I love turning complex topics into simple visuals
 
 ---
 
@@ -19,5 +23,7 @@
 ---
 
 ### 🌐 Connect with me:
+
 ☎️ +234 8100321608
+
 📩 SAVIOURPOPOOLA@GMAIL.COM

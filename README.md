@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm Saviour Popoola
+### 🌱 Web3 Enthusiast | 📱 Frontend Dev | 🎯 Lifelong Learner
 
-<!--
-**cloverhimself/cloverhimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently building projects in Web3 & React
+- 🌱 I’m learning full-stack development (Next.js, MongoDB)
+- 👯 I’m looking to collaborate on blockchain and DeFi projects
+- 💬 Ask me about Web3, JavaScript, and productivity
+- ⚡ Fun fact: I love turning complex topics into simple visuals
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saviourpopoola&show_icons=true&theme=github_dark" />
+</p>

@@ -1,5 +1,18 @@
-# 👋 Hello, I'm Saviour Popoola
-### 🌱 Web3 Enthusiast | 📱 Frontend Dev | 🎯 Lifelong Learner
+ Developer {
+    name: string;
+    age: number;
+    experience: string;
+    focus: string[];
+    location: string;
+}
+
+const me: Developer = {
+    name: "Clover Himself",
+    experience: "5+ years",
+    focus: ["Web Development","Web3","Project Management"],
+    location: "Nigeria",
+};
+
 
 - 🔭 I’m currently building projects in Web3 & React
   

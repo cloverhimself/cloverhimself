@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Clover 👋</h1>
+<h1 align="center">Hi, I'm Clover</h1>
 
 <p align="center">
-  <b>Backend Engineer in Progress</b> • AI-Assisted Builder • Web3 BD • Computer Science Student
+  <b>Backend Engineer in Progress...</b> Midtrovert • AI-Assisted Builder • Web3 BD • Computer Science Student
 </p>
 
 <p align="center">

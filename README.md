@@ -1,6 +1,3 @@
-Yep, this one is copy and paste ready. I removed project names and focused on **concepts, learning, backend engineering in progress, AI-assisted building, and your stack**.
-
-````md
 <h1 align="center">Hi, I'm Clover 👋</h1>
 
 <p align="center">

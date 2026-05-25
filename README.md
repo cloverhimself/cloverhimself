@@ -127,20 +127,6 @@ I believe learning becomes real when you can explain what broke, why it broke, a
 
 ---
 
-## My Engineering Mindset
-
-I’m learning to move from:
-
-```txt
-"It works"
-```
-
-to:
-
-```txt
-"It works properly, securely, and can be maintained."
-```
-
 That means I care about:
 
 * Clean logic
@@ -210,4 +196,4 @@ That means I care about:
 <p align="center">
   <b>Currently learning, building, debugging, and becoming better one system at a time.</b>
 </p>
-```
+

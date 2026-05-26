@@ -54,18 +54,14 @@ Debugging
 
 ## GitHub Activity
 
+## GitHub Activity
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=cloverhimself&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="Clover's GitHub Stats" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cloverhimself&show_icons=true&theme=tokyonight&hide_border=true" alt="Clover's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloverhimself&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Clover's Top Languages" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloverhimself&layout=compact&theme=tokyonight&hide_border=true" alt="Clover's Top Languages" />
 </p>
 
 ---

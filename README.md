@@ -49,19 +49,6 @@ I build with curiosity, documentation, AI assistance, trial and error, and a lot
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloverhimself&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Clover's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloverhimself&theme=tokyonight&hide_border=true" alt="Clover's GitHub Streak" />
-</p>
-
-
----
-
 ## What I’m Building Toward
 
 ```txt

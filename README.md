@@ -65,14 +65,6 @@ I build with curiosity, documentation, AI assistance, trial and error, and a lot
 
 ---
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cloverhimself&theme=tokyo-night&hide_border=true" alt="Clover's GitHub Activity Graph" />
-</p>
-
----
-
 ## What I’m Building Toward
 
 ```txt

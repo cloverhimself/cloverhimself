@@ -59,9 +59,6 @@ I build with curiosity, documentation, AI assistance, trial and error, and a lot
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloverhimself&theme=tokyonight&hide_border=true" alt="Clover's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloverhimself&layout=compact&theme=tokyonight&hide_border=true" alt="Clover's Top Languages" />
-</p>
 
 ---
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Clover</h1>
 
 <p align="center">
-  <b>Backend Engineer in Progress</b> • AI-Assisted Builder • Web3 BD • Computer Science Student
+  <b>Backend Engineer in Progress</b> Midtrovert • AI-Assisted Builder • Web3 BD • Computer Science Student
 </p>
 
 <p align="center">
@@ -52,30 +52,20 @@ Debugging
 
 ---
 
-## How I Learn
-
-```txt
-Understand the concept
-Build something small
-Break it
-Debug it
-Refactor it
-Document what I learned
-Repeat
-```
-
-Learning becomes real when I can explain what broke, why it broke, and how I fixed it.
-
----
-
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloverhimself&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=cloverhimself&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Clover's GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloverhimself&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloverhimself&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Clover's Top Languages" 
+  />
 </p>
 
 ---
@@ -96,3 +86,10 @@ Learning becomes real when I can explain what broke, why it broke, and how I fix
 <p align="center">
   <b>Currently learning, building, debugging, and becoming better one system at a time.</b>
 </p>
+```
+
+For the stats, make sure the GitHub username is exactly:
+
+```txt
+cloverhimself
+```

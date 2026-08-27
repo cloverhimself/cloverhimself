@@ -44,7 +44,7 @@ I build with curiosity, documentation, AI assistance, trial and error, and a lot
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,vercel,postman" />
 </p>
 
 ---
